@@ -1,3 +1,4 @@
+//binary search recursive algorithm
 import java.util.ArrayList;
 
 public class BinarySearchRecursive {
